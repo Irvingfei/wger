@@ -8,4 +8,4 @@ assets are built from these files.
 - `wger.lang` — 14 language sections
 - `wger.svg` — application icon
 
-Build toolchain: https://github.com/Irvingfei/tos-docker-apps
+Build toolchain: https://github.com/Irvingfei/docker-apps
