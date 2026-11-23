@@ -1,0 +1,97 @@
+[zh-cn]
+name = "wger"
+auth = "TerraMaster 社区开发者"
+descript = "自托管的健身与营养管理器：制定训练计划、浏览动作库、记录体重与饮食，提供网页界面和 REST API，手机 App 也能连接。"
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "由 6 个容器组成（Web、PostgreSQL、Redis、Celery×2、Nginx），建议至少 2GB 可用内存。首次启动需要执行数据库迁移和静态文件收集，可能要 5–10 分钟才能打开页面，请耐心等待。SITE_URL 默认是 http://localhost:18089，需要外链或媒体地址时请改成 NAS 的实际地址。注册功能默认开启。"
+
+[zh-hk]
+name = "wger"
+auth = "TerraMaster 社群開發者"
+descript = "自託管的健身與營養管理器：制定訓練計劃、瀏覽動作庫、記錄體重與飲食，提供網頁介面和 REST API，手機 App 也能連線。"
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "由 6 個容器組成（Web、PostgreSQL、Redis、Celery×2、Nginx），建議至少 2GB 可用記憶體。首次啟動需要執行資料庫遷移和靜態檔案收集，可能要 5–10 分鐘才能開啟頁面，請耐心等待。SITE_URL 預設是 http://localhost:18089，需要外鏈或媒體位址時請改成 NAS 的實際位址。註冊功能預設開啟。"
+
+[en-us]
+name = "wger"
+auth = "TerraMaster Community Developer"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[fr-fr]
+name = "wger"
+auth = "Développeur communautaire TerraMaster"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[de-de]
+name = "wger"
+auth = "TerraMaster Community-Entwickler"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[it-it]
+name = "wger"
+auth = "Sviluppatore della community TerraMaster"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[es-es]
+name = "wger"
+auth = "Desarrollador de la comunidad TerraMaster"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[hu-hu]
+name = "wger"
+auth = "TerraMaster közösségi fejlesztő"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[ja-jp]
+name = "wger"
+auth = "TerraMaster コミュニティ開発者"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[ko-kr]
+name = "wger"
+auth = "TerraMaster 커뮤니티 개발자"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[pl-pl]
+name = "wger"
+auth = "Społecznościowy deweloper TerraMaster"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[ru-ru]
+name = "wger"
+auth = "Разработчик сообщества TerraMaster"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[tr-tr]
+name = "wger"
+auth = "TerraMaster topluluk geliştiricisi"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
+
+[pt-pt]
+name = "wger"
+auth = "Programador da comunidade TerraMaster"
+descript = "A self-hosted workout and nutrition manager: plan routines, browse the exercise database, and track body weight and meals, with a web UI and a REST API for the mobile app."
+release_note = "1.0.0: First release of the self-hosted wger stack (wger 2.7) with PostgreSQL, Redis, Celery and nginx."
+important = "Runs as six containers (web, PostgreSQL, Redis, two Celery workers and nginx) and needs at least 2 GB of free memory. The first start runs database migrations and collects static files, so the page can take 5-10 minutes to come up. SITE_URL defaults to http://localhost:18089 and must be set to the NAS address if external links or media URLs are needed. Registration is enabled by default."
